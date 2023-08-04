@@ -1,5 +1,5 @@
-/* eslint-disable react/prop-types */
 
+// eslint-disable-next-line react/prop-types
 function HeaderItem({name, Icon}) {
   return (
     <div className="text-white flex items-center gap-5 text-[15px] cursor-pointer font-semibold hover:underline hover:underline-offset-8 transition-all duration-300 ">
