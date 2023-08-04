@@ -7,7 +7,7 @@ import
 from 'react-icons/hi2'
 import {HiPlus} from 'react-icons/hi'
 import HeaderItem from './HeaderItem'
-import profile from '../assets/images/hacker.png'
+import profile from '../assets/images/avatar.png'
 import { HiDotsVertical } from 'react-icons/hi'
 import { useState } from 'react'
 
